@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "935474921433",
+    "project_id": "sarojni-nagar",
+    "storage_bucket": "sarojni-nagar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935474921433:android:58fe4c75139a0c821563c8",
+        "android_client_info": {
+          "package_name": "com.example.sarojininagar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935474921433-tocse708o363t229d4laq9i9a76r6rel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sarojininagar",
+            "certificate_hash": "5906fe8685ae40f96e1f32988e2b7ae0fdc9c00d"
+          }
+        },
+        {
+          "client_id": "935474921433-4t9sk40lkhjc3ri4semmk6u92ah6p0ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoiUAKi2KqBCtgoeJfyNWh7apmP6rKGeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935474921433-4t9sk40lkhjc3ri4semmk6u92ah6p0ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
